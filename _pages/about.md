@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Blockchain enthusiast.Skilled in C++, data structures and algorithms, SQL, Public Speaking, Management, and Teamwork. Strong administrative professional with a Bachelor of Technology - BTech focused in Information Technology from Delhi College of Engineering. 
 
 
 News Updates
