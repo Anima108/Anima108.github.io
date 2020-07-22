@@ -12,5 +12,5 @@ Blockchain enthusiast.Skilled in C++, data structures and algorithms, SQL, Publi
 
 News Updates
 ======
-**June 2020**- Working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)
+**July 2020**- Working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)
 
